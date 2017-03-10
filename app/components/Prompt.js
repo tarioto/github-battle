@@ -1,4 +1,4 @@
-const React = require('react')
+const React = require('react');
 const PropTypes = React.PropTypes;
 const transparentBg = require('../styles').transparentBg;
 

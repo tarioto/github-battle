@@ -1,4 +1,4 @@
-const React = require('react')
+const React = require('react');
 const transparentBg = require('../styles').transparentBg;
 const ReactRouter = require('react-router');
 const Link = ReactRouter.Link;
@@ -15,6 +15,6 @@ const Home = React.createClass({
       </div>
     )
   }
-})
+});
 
 module.exports = Home;
